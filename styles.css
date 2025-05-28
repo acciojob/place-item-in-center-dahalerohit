@@ -1,5 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:200px;
+	height:200px;
+	justify-items:center;
+}
 .item-item-1{
 	background-color:red;
 	width:100px;
